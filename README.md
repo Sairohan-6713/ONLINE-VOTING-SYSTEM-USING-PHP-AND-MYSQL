@@ -1,4 +1,4 @@
-# ONLINE-VOTING-SYSTEM-USING-PHP-AND-MYSQL
+# ONLINE-VOTING-SYSTEM
 This Python program is designed to simulate a simple election system where two candidates compete in an election, and voters can cast their votes based on their voter IDs. The system ensures that only registered voters are allowed to vote, and each voter can only vote once. The program collects votes, counts them, and displays the final election results at the end of the process. The election continues until all registered voters have cast their votes, after which the winner is determined based on the candidate with the most votes.
 
 The election process begins with the program prompting the user to input the names of two candidates running for the election. These candidates will then be presented as choices for the voters. In the next step, a list of registered voters is provided, with each voter having a unique voter ID. The system ensures that only voters with valid IDs are eligible to cast their votes. The total number of registered voters is displayed for transparency, allowing users to see how many individuals are eligible to vote.
